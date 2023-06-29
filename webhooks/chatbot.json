@@ -1,0 +1,10 @@
+{
+  "name": "61fb75d5-fd8c-4158-a07c-2b6e864bf964",
+  "displayName": "chatbot",
+  "genericWebService": {
+    "uri": "https://28dc-2804-30c-1b06-7f00-b12f-89bc-75fe-d8eb.ngrok-free.app"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

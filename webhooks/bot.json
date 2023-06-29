@@ -1,0 +1,10 @@
+{
+  "name": "12292cdc-200f-4419-888b-429597843442",
+  "displayName": "bot",
+  "genericWebService": {
+    "uri": "https://3ee1-2804-7c0-30b1-db4a-fc35-bfdd-19de-c590.sa.ngrok.io/dialogflow"
+  },
+  "timeout": {
+    "seconds": 30
+  }
+}

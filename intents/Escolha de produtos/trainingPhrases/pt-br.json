@@ -1,0 +1,103 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "quero comprar ",
+      "auto": true
+    }, {
+      "text": "uma",
+      "parameterId": "quantidades",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "camiseta",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Computador",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero ",
+      "auto": true
+    }, {
+      "text": "uma",
+      "parameterId": "quantidades",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bermuda",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Pc gamer",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Mouses",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero ",
+      "auto": true
+    }, {
+      "text": "calças jeans",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero ",
+      "auto": true
+    }, {
+      "text": "camisetas",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero ",
+      "auto": true
+    }, {
+      "text": "um",
+      "parameterId": "quantidades",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "teclado",
+      "parameterId": "produtos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

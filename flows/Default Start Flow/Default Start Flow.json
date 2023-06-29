@@ -1,0 +1,75 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Olá! Seja bem-vindo!", "Oi! Seja bem-vindo!", " E ai! Seja bem-vindo!" ]
+        },
+        "languageCode": "pt-br"
+      }, {
+        "text": {
+          "text": [ "O que você deseja?" ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "9f28e1fa-9041-4b26-be86-991dd26cd151"
+  }, {
+    "intent": "Comprar",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Que tipo de serviço ou produto você deseja?" ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "0dee07b7-e423-4c1d-b70e-124b03d392b8"
+  }, {
+    "intent": "Escolha de produtos",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Posso confirmar a compra?" ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "d4877843-d441-4dc2-bf6b-9d856f11b57a"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi, poderia repetir?", "Desculpe, mas não compreendi, poderia repetir?", "Infelizmente, não captei o que deseja, poderia repetir?", "Não consegui compreender, desculpe, poderia repetir?" ]
+        },
+        "languageCode": "pt-br"
+      } ],
+      "webhook": "bot",
+      "tag": "input.unknown",
+      "returnPartialResponses": true
+    },
+    "name": "385ee8f6-9b4a-4500-8e1e-20496ee14bf1"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi.", "Desculpe, mas não compreendi.", "Infelizmente, não captei o que deseja.", "Não consegui compreender, desculpe." ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "61cc6088-2d6a-4a90-8476-8ad8026fd387"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001
+  }
+}

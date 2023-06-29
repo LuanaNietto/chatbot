@@ -1,0 +1,83 @@
+{
+  "entities": [ {
+    "value": "Teclado Mecânico Gamer",
+    "synonyms": [ "Gamer", "Mecanico", "Teclado" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Mouse Gamer",
+    "synonyms": [ "gamer", "mouse", "Mouse Gamer" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Camiseta Star Wars",
+    "synonyms": [ "camiseta", "Camiseta Star Wars", "star", "wars" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Camiseta G",
+    "synonyms": [ "camiseta", "Camiseta G", "g" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Camiseta P",
+    "synonyms": [ "camiseta p", "Camiseta P" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Camiseta M",
+    "synonyms": [ "camiseta", "Camiseta M", "m" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Bermuda jeans",
+    "synonyms": [ "bermuda", "Bermuda jeans", "jeans" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Bermuda",
+    "synonyms": [ "Bermuda" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Calça",
+    "synonyms": [ "Calça" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Calça jeans",
+    "synonyms": [ "calça", "Calça jeans", "jeans" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Calça de Alfaiataria",
+    "synonyms": [ "alfaia", "alfaiataria", "calça" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Calça de Alfaiataria",
+    "synonyms": [ "alfaia", "alfaiataria", "Calça de Alfaiataria" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Moletom",
+    "synonyms": [ "G ", "GG", "M", "Moletom", "P", "PP" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Pc Gamer",
+    "synonyms": [ "gamer", "pc", "Pc Gamer" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Notebook Dell Intel Core I5",
+    "synonyms": [ "dell", "intel", "Notebook Intel Core I5" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Notebook Dell Intel Core I7",
+    "synonyms": [ "dell", "intel", "Notebook Dell Intel Core I7" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Livros",
+    "synonyms": [ "Livros" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Suporte para notebook",
+    "synonyms": [ "suporte", "Suporte para notebook" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Bateria",
+    "synonyms": [ "Bateria" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Computadores",
+    "synonyms": [ "computador", "Computadores", "pc" ],
+    "languageCode": "pt-br"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "f21d0fea-70ec-4a61-9430-fb7d0d1d7839",
+  "displayName": "Saudações",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 2
+}

@@ -1,0 +1,13 @@
+{
+  "name": "4240ec3f-b877-4895-b42d-0aa6d7b7aa02",
+  "displayName": "Escolha de produtos",
+  "parameters": [ {
+    "id": "quantidades",
+    "entityType": "@sys.number"
+  }, {
+    "id": "produtos",
+    "entityType": "@Produtos"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 8
+}

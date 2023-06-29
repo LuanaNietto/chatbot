@@ -1,0 +1,127 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "preciso",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "teste",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "informacoes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "ajuda",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "oie",
+      "parameterId": "geo-city",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "oii",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "831fd340-49df-4d75-af4f-b176f2ced534",
+    "parts": [ {
+      "text": "há quanto tempo",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "33c7ce06-6c1e-4cd7-b497-d2d5f6fe0a6e",
+    "parts": [ {
+      "text": "olá",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "1f5d5c41-887e-48d6-a22d-ff3d573bfc73",
+    "parts": [ {
+      "text": "oi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "174fd653-a690-429c-9aa5-c3ee3b4f378c",
+    "parts": [ {
+      "text": "opa",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "161c6d92-1ebf-4300-a18d-429bfe7541ef",
+    "parts": [ {
+      "text": "fala aí",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "e64b00d9-9917-4e13-a1fb-b5b5fa621d66",
+    "parts": [ {
+      "text": "fala",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "df0799bf-5e77-44d4-89a0-f4efa143c808",
+    "parts": [ {
+      "text": "saudações",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "4ffbcf18-1f17-4281-b8ec-bdb0ac0f0a4e",
+    "parts": [ {
+      "text": "oi tudo bem",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "f95af69c-b31f-4ab5-925e-ac1ebe66497c",
+    "parts": [ {
+      "text": "e aí",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "id": "3d6a79ed-6fe3-4c13-9419-2f651435df28",
+    "parts": [ {
+      "text": "eae",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}
